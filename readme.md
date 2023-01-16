@@ -45,4 +45,14 @@ Start the server
 ![ProfileFeeds](/screenshots/ProfileFeeds.jpeg | width=100)
  -->
 
-<img src="/screenshots/Started.jpeg" width=50% height=50%>
+<img src="/screenshots/Started.jpeg" width=40% height=50%>
+<img src="/screenshots/Register.jpeg" width=40% height=50%>
+<img src="/screenshots/Login.jpeg" width=40% height=50%>
+<img src="/screenshots/Forgot.jpeg" width=40% height=50%>
+<img src="/screenshots/Feeds.jpeg" width=40% height=50%>
+<img src="/screenshots/Post.jpeg" width=40% height=50%>
+<img src="/screenshots/Search.jpeg" width=40% height=50%>
+<img src="/screenshots/Register.jpeg" width=40% height=50%>
+<img src="/screenshots/Nofifications.jpeg" width=40% height=50%>
+<img src="/screenshots/Profile.jpeg" width=40% height=50%>
+<img src="/screenshots/ProfileFeeds.jpeg" width=40% height=50%>
