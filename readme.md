@@ -32,15 +32,15 @@ Start the server
 
 ## Screenshots
 
-![Get Started](/screenshots/Started.jpeg)
-![Register](/screenshots/Register.jpeg)
-![Login](/screenshots/Login.jpeg)
-![Forgot](/screenshots/Forgot.jpeg)
-![Feeds](/screenshots/Feeds.jpeg)
-![Post](/screenshots/Post.jpeg)
-![Search](/screenshots/Search.jpeg)
-![Register](/screenshots/Register.jpeg)
-![Nofifications](/screenshots/Nofifications.jpeg)
-![Profile](/screenshots/Profile.jpeg)
-![ProfileFeeds](/screenshots/ProfileFeeds.jpeg)
+![Get Started](/screenshots/Started.jpeg | width=100)
+![Register](/screenshots/Register.jpeg | width=100)
+![Login](/screenshots/Login.jpeg | width=100)
+![Forgot](/screenshots/Forgot.jpeg | width=100)
+![Feeds](/screenshots/Feeds.jpeg | width=100)
+![Post](/screenshots/Post.jpeg | width=100)
+![Search](/screenshots/Search.jpeg | width=100)
+![Register](/screenshots/Register.jpeg | width=100)
+![Nofifications](/screenshots/Nofifications.jpeg | width=100)
+![Profile](/screenshots/Profile.jpeg | width=100)
+![ProfileFeeds](/screenshots/ProfileFeeds.jpeg | width=100)
 
