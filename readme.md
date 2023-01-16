@@ -41,6 +41,6 @@ Start the server
 ![Search](/screenshots/Search.jpeg)
 ![Register](/screenshots/Register.jpeg)
 ![Nofifications](/screenshots/Nofifications.jpeg)
-![Profil](/screenshots/Profil.jpeg)
+![Profile](/screenshots/Profile.jpeg)
 ![ProfileFeeds](/screenshots/ProfileFeeds.jpeg)
 
