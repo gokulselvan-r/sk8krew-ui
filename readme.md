@@ -32,7 +32,7 @@ Start the server
 
 ## Screenshots
 
-![Get Started](/screenshots/Started.jpeg | width=100)
+<!-- ![Get Started](/screenshots/Started.jpeg | width=100)
 ![Register](/screenshots/Register.jpeg | width=100)
 ![Login](/screenshots/Login.jpeg | width=100)
 ![Forgot](/screenshots/Forgot.jpeg | width=100)
@@ -43,4 +43,6 @@ Start the server
 ![Nofifications](/screenshots/Nofifications.jpeg | width=100)
 ![Profile](/screenshots/Profile.jpeg | width=100)
 ![ProfileFeeds](/screenshots/ProfileFeeds.jpeg | width=100)
+ -->
 
+<img src="/screenshots/Started.jpeg" width=50% height=50%>
